@@ -1,0 +1,38 @@
+.body{
+    background-color: whitesmoke;
+}
+.tb{
+    text-align: right;
+    width: 281px;
+    height: 75px;
+    background-color: #646464;
+    border: none;
+    color: white;
+    font-size: 25px;
+}
+
+.but{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    font-size: 20px;
+    outline: none;
+}
+.head{
+    text-align: center;
+    margin-top: 75px;
+}
+.bu{
+    width: 280px;
+    border: 0.5px solid black;
+    height: 61px;
+    font-size: 22px;
+    color: darkslategrey;
+    outline: none;
+}
+.a{
+    background-color: white;
+}
+.b{
+    background-color: coral;
+}
